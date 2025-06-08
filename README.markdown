@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Nishan Shashintha! ⚡️
 
 **Full Stack Alchemist | API Architect | React Frontend Maestro | Tech Innovator** 🌌  
-📍 Salzburg, Austria | [LinkedIn](https://linkedin.com/in/nishan-shashintha) | [Portfolio](https://solar-bavaria.de/konfigurator) | [Email](mailto:nishan.me@hotmail.com)
+📍 Salzburg, Austria | [LinkedIn](https://linkedin.com/in/nishan-shashintha) | [Portfolio](https://shashinthalk.cc/) | [Email](mailto:nishan.me@hotmail.com)
 
 I'm a relentless coder who thrives at the intersection of **backend brilliance** and **frontend finesse**. Specializing in crafting **scalable APIs** with **Spring Boot**, **Flask**, and **Laravel**, I build robust systems that power seamless digital experiences. On the frontend, I wield **React.js** to create **dynamic, pixel-perfect interfaces** that captivate users. From architecting asset management systems to deploying intelligent chatbots, I transform complex challenges into elegant, high-performance solutions. My code doesn't just run—it *soars*! 🚀
 
